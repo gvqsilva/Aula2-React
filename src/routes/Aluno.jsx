@@ -1,7 +1,7 @@
-const Aluno = () => {
-    return (
+const Aluno=()=>{
+    return(
         <>
-            <h1>Aluno</h1>
+        <h1>Aluno</h1>
         </>
     )
 }

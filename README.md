@@ -22,3 +22,10 @@
                        		 ->   Apagar todo conteúdo dos fragments '<> </>'
 
 # Instalando as dependências de rotas
+
+9º - Criar uma pasta com o nome 'routes'
+
+10° - Criar os arquivos do mesmo jeito com .jsx
+
+11° - instalar o pacote:
+        -npm install react-router-dom
